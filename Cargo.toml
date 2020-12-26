@@ -1,0 +1,8 @@
+[package]
+name = "reactive-streams-rs-merry-go-round"
+version = "0.1.0"
+authors = ["jacqu"]
+edition = "2018"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
